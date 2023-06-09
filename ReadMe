@@ -1,0 +1,3 @@
+Braucht folgende Libraries:
+pip install pandas
+pip install tabula-py
